@@ -28,8 +28,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Demo Video
 
 <p align="center">
-  <video width="100%" controls style="max-width:400px;">
-    <source src="https://github.com/user-attachments/assets/e5e9f831-487a-4255-b2a9-ccc03d36505b" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/user-attachments/assets/e5e9f831-487a-4255-b2a9-ccc03d36505b" target="_blank">Watch the full video</a>
 </p>
+
